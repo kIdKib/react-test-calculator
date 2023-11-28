@@ -17,8 +17,8 @@ class Calculatrice extends Component {
     }
 
     soustraction =() =>{
-        let valeur = this.state.resultat - this.state.input
-        this.setState({resultat: valeur})
+        let valeu = this.state.resultat - this.state.input
+        this.setState({resultat: valeu})
     }
 
 
